@@ -28,6 +28,7 @@ De quoi redécouvrir Pokémon Cristal en français et adapter l'aventure à votr
 ## Télécharger et jouer
 
 Voici le patch de la version 0.8.
+Il vous faut la ROM de Pokémon Cristal Rev. 01 (USA/Europe) pour appliquer le patch.
 Le dépôt ne fournit pas de ROM du jeu.
 
 ## Captures d'écran
