@@ -1,4 +1,5 @@
 # Pokémon Crystal Legacy — Édition française et remaniée
+
 ![Maquette de la boîte de l’édition physique](<images/modèle communication version boite (ss manuel).png>)
 
 Redécouvrez Johto et Kanto avec cette version française et remaniée de **Pokémon Crystal Legacy**, le projet de TheSmithPlays (TSP), traduit et retravaillé par Florian.
@@ -58,12 +59,21 @@ Le type Spectre devient spécial et le type Ténèbres physique. Certaines stati
 - **Objets rares** : taux de drop augmenté de 2 % à 5 %.
 - **Pokédex enrichi** : affichage du total des statistiques de base et tri des Pokémon selon leurs statistiques.
 - **Revanches illimitées** contre les dresseurs fixes de Johto, dès le premier badge. La première revanche se joue au niveau d'origine, puis leurs Pokémon gagnent trois niveaux par victoire, avec des attaques et des évolutions adaptées. Les équipes restent identiques, avec un plafond de niveau fixé à 50 avant la Ligue, puis à 100 après. Les gains d'argent et d'expérience sont divisés par 1,5.
+
 ![revanche](<images/20261105_115921.png>)
+
 - **Maître des capacités Œuf** : accessible au Plateau Indigo après huit badges, il enseigne ces attaques contre 2 000 jetons.
+
 ![maitre oeuf](<images/20261015_142337.png>)
+
 - **ADN EVs MAX** : disponible à Carmin sur Mer contre 9 998 jetons ou en récompense du palier 5 de la Tour de Combat. **Attention : son utilisation sur un Pokémon chromatique lui fait perdre ce statut !**
-![ADN](<images/20261023_035510.png>)![ADN](<images/20261023_030202.png>)
+
+![ADN](<images/20261023_035510.png>)
+
+![ADN](<images/20261023_030202.png>)
+
 - **Cadre d'infos des capacités en combat** : type, dégâts, précision et PP.
+
 ![cadre](<images/20261101_075525.png>)
 
 De quoi redécouvrir Pokémon Cristal en français et adapter l'aventure à votre façon de jouer !
