@@ -7,6 +7,45 @@ Cette édition reprend les améliorations de Crystal Legacy : progression plus �
 
 > La version physique sera achetable sur le discord du projet.
 
+<details>
+<summary>principaux ajouts de legacy</summary>
+
+### Un voyage plus pratique !
+
+Dans Pokémon, il y a beaucoup de chemin à parcourir. Comme dans les générations suivantes, utilisez les chaussures de sport : maintenez la touche B pour vous déplacer deux fois plus vite ! Cela fonctionne également lorsque vous utilisez Surf.
+
+- Les soins sont plus rapides dans les Centres Pokémon.
+- Possibilité de déplacer les Pokémon dans le PC.
+- Un message vous propose de réutiliser automatiquement un Repousse quand il se termine.
+- Consultation des capacités dans le Pokédex, noms des capacités des CT visibles dans le sac et possibilité d'oublier les CS à tout moment.
+- L'Œuf Bizarre possède toujours de bons DVs ; les évolutions par bonheur sont plus rapides.
+
+### Plus de possibilités pour votre équipe
+
+- Tous les Pokémon sont obtenables en solo.
+- Répartition des Pokémon sauvages de Johto revue pour offrir plus de choix aux joueurs (par exemple, Malosse la nuit sur la route 36).
+- Les Pokémon nécessitant un échange, avec ou sans objet, évoluent désormais simplement par montée de niveau ou en recevant l'objet. Les pierres sont désormais accessibles avant la Ligue (vous n'avez plus besoin d'entraîner Caninos ou Stari dans votre équipe).
+
+### Des combats rééquilibrés
+
+Le type Spectre devient spécial et le type Ténèbres physique. Certaines statistiques et de nombreuses capacités ont été ajustées pour équilibrer les Pokémon et leur permettre d'avoir accès à un ensemble de capacités plus variées. (Détails dans les pages suivantes.)
+
+### De nouveaux services et défis
+
+- Mode Difficile avec limite de niveau par Arène et interdiction d'utiliser des objets en combat.
+- Mode Cauchemar pour les amateurs de nuzlocke et de challenge !
+- Tour de Combat et récompenses revues.
+- Nouvelles boutiques, Maître des Capacités plus accessible (ajout d'un Maître des Capacités Œuf).
+
+### Progression et courbe de difficulté
+
+- Des adversaires repensés (équipes des dresseurs, du rival, de la Team Rocket, des Champions et du Conseil des 4 remaniées).
+- Échelle de niveau pour les équipes, ainsi que niveau de Chuck, Frédo et Jasmine ajusté selon le nombre de badges que vous possédez.
+- Une aventure enrichie (scénario de la Team Rocket retravaillé, fossiles aux Ruines Alpha, événement Celebi et nouvelles rencontres à découvrir).
+- Possibilité de revanche contre les Champions d'Arène et de la Ligue.
+
+</details>
+
 ## Modes de jeu
 
 - **Normal** : l'expérience classique de Crystal Legacy.
