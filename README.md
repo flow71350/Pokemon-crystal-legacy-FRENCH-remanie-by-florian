@@ -1,4 +1,5 @@
 # Pokémon Crystal Legacy — Édition française et remaniée
+![Version physique](crystal-legacy-couleurs-vives-160x144.png)
 
 Redécouvrez Johto et Kanto avec cette version française et remaniée de **Pokémon Crystal Legacy**, le projet de TheSmithPlays (TSP), traduit et retravaillé par Florian.
 
