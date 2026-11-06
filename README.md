@@ -11,7 +11,7 @@ Cette édition reprend les améliorations de Crystal Legacy : progression plus �
 
 - **Normal** : l'expérience classique de Crystal Legacy.
 - **Difficile** : des plafonds de niveau liés aux Arènes et l'interdiction d'utiliser des objets pendant les combats contre les dresseurs.
-- **Cauchemar** : des plafonds de niveau également, avec les objets interdits en combat par défaut. Cette édition ajoute une option pour autoriser leur utilisation et personnaliser votre expérience.
+- **Cauchemar** : des plafonds de niveau également, avec les objets interdits en combat par défaut. Cette édition ajoute une option pour autoriser leurs utilisations et personnaliser votre expérience.
 
 ## Les ajouts de cette édition
 
@@ -32,9 +32,9 @@ De quoi redécouvrir Pokémon Cristal en français et adapter l'aventure à votr
 Il vous faut la ROM de Pokémon Cristal Rev. 01 (USA/Europe) pour appliquer le patch.
 Le dépôt ne fournit pas de ROM du jeu.
 
-## Captures d'écran
+## Image
 
-Les captures d'écran seront ajoutées ici et conservées dans le dossier [images](images/README.md).
+[images](images/README.md).
 
 ## Documentation et liens
 
