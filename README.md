@@ -27,7 +27,8 @@ De quoi redécouvrir Pokémon Cristal en français et adapter l'aventure à votr
 
 ## Télécharger et jouer
 
-Voici le patch de la version 0.8.
+[Télécharger le patch BPS — version 0.8](https://github.com/flow71350/pokemon-crystal-legacy-fr/raw/refs/heads/main/patches/pokecrystal0.8.bps)
+
 Il vous faut la ROM de Pokémon Cristal Rev. 01 (USA/Europe) pour appliquer le patch.
 Le dépôt ne fournit pas de ROM du jeu.
 
