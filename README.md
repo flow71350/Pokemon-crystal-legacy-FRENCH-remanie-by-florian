@@ -5,7 +5,7 @@ Redécouvrez Johto et Kanto avec cette version française et remaniée de **Pok�
 
 Cette édition reprend les améliorations de Crystal Legacy : progression plus équilibrée, Pokémon plus accessibles, attaques et statistiques revues, Champions renforcés et nombreuses améliorations du confort de jeu.
 
-> Le patch et les captures d'écran ne sont pas encore disponibles dans ce dépôt.
+> La version physique sera achetable sur le discord du projet.
 
 ## Modes de jeu
 
@@ -27,9 +27,8 @@ De quoi redécouvrir Pokémon Cristal en français et adapter l'aventure à votr
 
 ## Télécharger et jouer
 
-Le patch n'est pas encore disponible. Les informations sur la version du jeu de base nécessaire, le format du patch et les étapes d'installation seront précisées avant sa publication.
-
-Consultez le [guide d'installation](docs/installation.md) pour connaître les informations à venir. Le dépôt ne fournit pas de ROM du jeu.
+Voici le patch de la version 0.8.
+Le dépôt ne fournit pas de ROM du jeu.
 
 ## Captures d'écran
 
@@ -42,16 +41,14 @@ Les captures d'écran seront ajoutées ici et conservées dans le dossier [image
 - [Dossier des images](images/README.md)
 - [Rejoindre le Discord](https://discord.gg/teMRt6BcP)
 
-Le lien vers la présentation de Pokémon Crystal Legacy par son créateur, pour découvrir la philosophie du projet d'origine et le détail de ses modifications, reste à ajouter.
+Rejoignez le discord pour suivre l'actualité du projet et venir échanger avec la communauté.
 
 ## Participer
 
 Venez aider à concrétiser ce projet, suivre les dernières mises à jour et proposer vos idées ! Vos retours et suggestions sont les bienvenus pour faire évoluer cette édition.
 
-Une version physique est également en préparation.
+La version physique est en préparation.
 
 ## Crédits et mentions
 
-Pokémon Crystal Legacy est un projet de TheSmithPlays (TSP). Cette édition est traduite et retravaillée par Florian. Les crédits détaillés seront complétés lorsque les autres sources et contributions auront été identifiées.
-
-Pokémon et les noms associés appartiennent à leurs ayants droit respectifs. Ce projet de fans n'est pas présenté comme un projet officiel.
+Pokémon Crystal Legacy est un projet de TheSmithPlays (TSP). Cette édition est traduite et retravaillée par Florian.Ce projet de fans n'est pas présenté comme un projet officiel.
