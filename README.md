@@ -100,7 +100,7 @@ Rejoignez le discord pour suivre l'actualité du projet et venir échanger avec 
 
 ## Participer
 
-Venez m'aider à concrétiser ce projet, suivre les dernières mises à jour et proposer vos idées ! Vos retours et suggestions sont les bienvenus pour faire évoluer cette édition.
+Venez m'aider à concrétiser ce projet en rejoignant le discord, suivre les dernières mises à jour et proposer vos idées ! Vos retours et suggestions sont les bienvenus pour faire évoluer cette édition.
 
 La version physique est en préparation.
 
