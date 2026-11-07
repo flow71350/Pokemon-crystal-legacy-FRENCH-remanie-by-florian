@@ -106,4 +106,4 @@ La version physique est en préparation.
 
 ## Crédits et mentions
 
-Pokémon Crystal Legacy est un projet de TheSmithPlays (TSP). Après avoir obtenu l autorisation de l equipe , je me suis lancé dans ce projet de traduction.Ce projet de fan n'est pas présenté comme un projet officiel.
+Pokémon Crystal Legacy est un projet de TheSmithPlays (TSP). Après avoir obtenu l autorisation de l equipe , je me suis lancé dans ce projet de traduction et de remaniement afin de parfaire cette rom.Ce projet de fan n'est pas présenté comme un projet officiel.
